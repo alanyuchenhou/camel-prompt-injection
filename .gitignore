@@ -198,7 +198,6 @@ Temporary Items
 .apdisk
 .zed
 
-logs
 plots
 tables
 count_tokens_qllm.py
